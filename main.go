@@ -9,6 +9,8 @@ import (
 func main() {
 	arr := []string{
 		"I'm proud of you, son!",
+		"I'm so proud of you!",
+		"Everyone is very proud of you!",
 		"You make me so proud!",
 		"Every day makes me proud of you!",
 		"Such wow, much pride!",
