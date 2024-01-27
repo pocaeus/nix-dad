@@ -13,6 +13,8 @@ func main() {
 		"Every day makes me proud of you!",
 		"Such wow, much pride!",
 		"Much pride, such wow!",
+		"Just wanted to let you know how proud I am of you.",
+		"Hey there, did I tell you I'm proud of you?",
 	}
 
 	index := rand.Intn(len(arr))
